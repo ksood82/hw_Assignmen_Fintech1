@@ -1,11 +1,17 @@
-# Fintech Case Study: Current Financial
+# Fintech Case Study: Finco Services, Inc. d.b.a Current
 
 ![This is Current image](current.jpg)
 
+[Current.com](https://current.com/)
+
 # Table of Contents
 
-##* About the company and their mission
-* 
+* Overview and Origin
+* Business Activities
+* Landscape
+* Results
+* Recommendations
 
+## Overview and Origin
 
-Finco Services, Inc. is a New York City-based financial services and software development company (FinTech) operating its mobile banking unit under the name Current.  Current was founded in 2017 by Stuart Sopp with mission to make banking accessible to everyone. 
+Finco Services, Inc. is a New York City-based financial services and software development company (FinTech) operating its mobile banking unit under the name Current.  Current was founded in 2017 by Stuart Sopp with mission to make banking accessible to everyone. The company was created based on the idea of making banking available to everyone anywhere and give and opportunity to enable online banking to people who have limited access in the traditional banking network.
