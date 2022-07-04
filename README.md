@@ -4,4 +4,4 @@
 
 # Table of Contents
 
-<ol> * About the company
+* About the company
