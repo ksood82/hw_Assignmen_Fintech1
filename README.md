@@ -19,7 +19,8 @@ Finco Services, Inc. is a New York City-based financial services and software de
 ## Business Activities
 
 Current offers checking and saving accounts which individual and businesses can open in online through there app. The company have several core competancies that seperates them from the traditional banks:
-      * Option to open bank account through phone (no need to visit the bank)
+ 
+ 1. Option to open bank account through phone (no need to visit the bank)
       * Anywhere free fee ATMs
       * Faster Direct Deposit (2 days early before actual direct deposit)
       * High interest saving account (4.00% APY)
