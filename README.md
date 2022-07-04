@@ -3,3 +3,5 @@
 ![This is Current image](current.jpg)
 
 # Table of Contents
+
+<ol> * About the company
