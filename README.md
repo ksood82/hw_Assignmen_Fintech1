@@ -33,4 +33,6 @@ Current offers checking and saving accounts which individual and businesses can 
 
 | Traditional | Fintech |
 | :------- | ----: |
-
+| Chase | CashApp |
+| BofA | Varo |
+| PNC | Chime |
