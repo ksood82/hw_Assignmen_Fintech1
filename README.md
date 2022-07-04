@@ -30,3 +30,7 @@ Current offers checking and saving accounts which individual and businesses can 
       
 ![this is the image](Interest.png)
 ### Landscape
+
+| Traditional | Fintech |
+| :------- | ----: |
+
