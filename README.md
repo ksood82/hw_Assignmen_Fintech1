@@ -3,8 +3,8 @@
 ![This is Current image](current.jpg)
 
 # Table of Contents
-##
-* About the company and their mission
+
+##* About the company and their mission
 * 
 
 
