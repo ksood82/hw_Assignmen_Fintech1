@@ -25,4 +25,4 @@ Current offers checking and saving accounts which individual and businesses can 
       * Faster Direct Deposit (2 days early before actual direct deposit)
       * High interest saving account (4.00% APY)
       
-      ![this is the image](current Interest.png)
+      ![this is the image](Interest.png)
