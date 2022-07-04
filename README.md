@@ -1,1 +1,3 @@
-# hw_Assignmen_Fintech1
+# Fintech Case Study: Current Financial
+
+![This is Current image](current.jpeg)
