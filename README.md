@@ -31,7 +31,7 @@ Current offers checking and saving accounts which individual and businesses can 
 ![this is the image](Interest.png)
 ### Landscape
 
-Current operates in highly competitive market which has been traditionally has been a monolopy of large financial instituitions. In recent times, there has been many established and unicorn fintechs coming up in the space. Below are some competitors in the space:
+Current operates in highly competitive market which has been traditionally has been a monolopy of large financial instituitions. In recent times, there has been many established and unicorn fintechs[^source1] coming up in the space. Below are some competitors in the space:
 | Traditional | Fintech |
 | :------- | ----: |
 | Chase | CashApp |
@@ -47,7 +47,7 @@ Current is not a public company so financial data is not available but as of 202
 <li> Current announces $131 million in Series C funding; Surpasses 2 million members. 
 <li> Current raises $20 million in Series B, expands Visa partnership and surpasses 500,000 customers.
 
-Generally, success of the early start up or Fintech is measured by my number of new customers or sign ups. Current in last two years have surpassed 2 million customers.[^source1]
+Generally, success of the early start up or Fintech is measured by my number of new customers or sign ups. Current in last two years have surpassed 2 million customers.[^source2]
      
 ### Recommendations
 
@@ -59,4 +59,5 @@ Generally, success of the early start up or Fintech is measured by my number of 
      
 
 [^source]: [Current.com](https://current.com/) , [wikipeida.com](https://en.wikipedia.org/wiki/Finco_Services)
-[^source1]: [Current.com/funding](https://current.com/blog/funding/)
+[^source1]: [Chime.com](https://www.chime.com/) , [Varomoney.com](https://www.varomoney.com/)
+[^source2]: [Current.com/funding](https://current.com/blog/funding/)
