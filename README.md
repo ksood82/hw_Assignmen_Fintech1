@@ -39,6 +39,8 @@ Current operates in highly competitive market which has been traditionally has b
 | PNC | Chime |
 
 
+### Results
 
+Current is not a public company so financial data is not available but as of 2021 
 
 [^source]: [Current.com](https://current.com/) , [wikipeida.com](https://en.wikipedia.org/wiki/Finco_Services)
