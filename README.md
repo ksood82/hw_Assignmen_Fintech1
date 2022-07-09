@@ -14,7 +14,7 @@
 
 ### Overview and Origin
 
-Finco Services, Inc. is a New York City-based financial services and software development company (FinTech) operating its mobile banking unit under the name Current.  Current was founded in 2017 by Stuart Sopp with mission to make banking accessible to everyone. The company was created based on the idea of making banking available to everyone anywhere and give and opportunity to enable online banking to people who have limited access in the traditional banking network.
+Finco Services, Inc. is a New York City-based financial services and software development company (FinTech) operating its mobile banking unit under the name Current.  Current was founded in 2017 by Stuart Sopp with mission to make banking accessible to everyone. The company was created based on the idea of making banking available to everyone anywhere and give and opportunity to enable online banking to people who have limited access in the traditional banking network.[^source]
 
 ### Business Activities
 
@@ -31,8 +31,14 @@ Current offers checking and saving accounts which individual and businesses can 
 ![this is the image](Interest.png)
 ### Landscape
 
+Current operates in highly competitive market which has been traditionally has been a monolopy of large financial instituitions. In recent times, there has been many established and unicorn fintechs coming up in the space. Below are some competitors in the space:
 | Traditional | Fintech |
 | :------- | ----: |
 | Chase | CashApp |
 | BofA | Varo |
 | PNC | Chime |
+
+
+
+
+[^source]: [Current.com](https://current.com/) , [wikipeida.com](https://en.wikipedia.org/wiki/Finco_Services)
