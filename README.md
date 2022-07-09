@@ -51,9 +51,11 @@ Generally, success of the early start up or Fintech is measured by my number of 
      
 ### Recommendations
 
-<li> **Move to monetize stable crypto currencies allowing people to spend using their card** - None of the competitors have explored this area but payment apps such as PayPal and Square have already allow customers to add crypto in their wallet.
-<li> **Provide investment vechicles to people to use money in their accounts to grow** - lot of fintech companies such as Fundrise, stach, and Robinhood are offering customers options to invest but traditional banks already provide this option to only high net worth clients, Current can explore expansion of investment services to low net worth underserved customers at low fees if they open a bank account with them.
-<li> **Offer lending opportunites to based on bank balance** - Varo and Chime have already expanded in this sector by giving opportunites to people with low credit get funding and build their credit file back, given Current's mission this is an excellent opportunities to increase singn ups.
+**Move to monetize stable crypto currencies allowing people to spend using their card** - None of the competitors have explored this area but payment apps such as PayPal and Square have already allow customers to add crypto in their wallet.
+     
+**Provide investment vechicles to people to use money in their accounts to grow** - lot of fintech companies such as Fundrise, stach, and Robinhood are offering customers options to invest but traditional banks already provide this option to only high net worth clients, Current can explore expansion of investment services to low net worth underserved customers at low fees if they open a bank account with them.
+     
+**Offer lending opportunites to based on bank balance** - Varo and Chime have already expanded in this sector by giving opportunites to people with low credit get funding and build their credit file back, given Current's mission this is an excellent opportunities to increase singn ups.
 
 
      
