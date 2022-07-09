@@ -43,11 +43,11 @@ Current operates in highly competitive market which has been traditionally has b
 
 Current is not a public company so financial data is not available but as of 2021, the company has a revenue of $9.6MM. The company did raise several rounds of funding:
 
-<li> Current triples valuation to $2.2 billion; Raises $220 million in Series D funding. [^source1]
-<li> Current announces $131 million in Series C funding; Surpasses 2 million members. [^source1]
-<li> Current raises $20 million in Series B, expands Visa partnership and surpasses 500,000 customers. [^source1]
+<li> Current triples valuation to $2.2 billion; Raises $220 million in Series D funding. 
+<li> Current announces $131 million in Series C funding; Surpasses 2 million members. 
+<li> Current raises $20 million in Series B, expands Visa partnership and surpasses 500,000 customers.
 
-Generally, success of the early start up or Fintech is measured by my number of new customers or sign ups. Current in last two years have surpassed 2 million customers.
+Generally, success of the early start up or Fintech is measured by my number of new customers or sign ups. Current in last two years have surpassed 2 million customers.[^source1]
      
 
      
