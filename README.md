@@ -22,7 +22,7 @@ Current offers checking and saving accounts which individual and businesses can 
 
 
 <li> Option to open bank account through phone (no need to visit the bank)
-<li> Anywhere free fee ATMs
+<li> Anywhere fee free ATMs
 <li> Faster Direct Deposit (2 days early before actual direct deposit)
 <li> High interest saving account (4.00% APY)
      
@@ -41,6 +41,16 @@ Current operates in highly competitive market which has been traditionally has b
 
 ### Results
 
-Current is not a public company so financial data is not available but as of 2021 
+Current is not a public company so financial data is not available but as of 2021, the company has a revenue of $9.6MM. The company did raise several rounds of funding:
+
+<li> Current triples valuation to $2.2 billion; Raises $220 million in Series D funding[^source]
+<li> Current announces $131 million in Series C funding; Surpasses 2 million members[^source]
+<li> Current raises $20 million in Series B, expands Visa partnership and surpasses 500,000 customers[^source]
+
+Generally, success of the early start up or Fintech is measured by my number of new customers or sign ups. Current in last two years have surpassed 2 million customers.
+     
+
+     
 
 [^source]: [Current.com](https://current.com/) , [wikipeida.com](https://en.wikipedia.org/wiki/Finco_Services)
+[^source]: [Current.com]([https://current.com/](https://current.com/blog/funding/))
