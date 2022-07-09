@@ -53,4 +53,4 @@ Generally, success of the early start up or Fintech is measured by my number of 
      
 
 [^source]: [Current.com](https://current.com/) , [wikipeida.com](https://en.wikipedia.org/wiki/Finco_Services)
-[^source1]: [Current.com/funding]((https://current.com/blog/funding/)
+[^source1]: [Current.com/funding](https://current.com/blog/funding/)
